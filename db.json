@@ -1,6 +1,15 @@
 {
   "pokemon": [
     {
+      "id": 1,
+      "name": "bulbasaur",
+      "hp": 40,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      }
+    },
+    {
       "id": 2,
       "name": "ivysaur",
       "hp": 60,
@@ -1339,6 +1348,42 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+      }
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "hp": 120,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Chikorita",
+      "hp": 40,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Bayleef",
+      "hp": 80,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/153.png"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Meganium",
+      "hp": 120,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/154.png"
       }
     }
   ]
