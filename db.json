@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Emilio",
+      "hp": "100",
+      "sprites": {
+        "front": "image.pic",
+        "back": "image.pic"
+      },
+      "id": 151
+    },
+    {
+      "name": "Perro",
+      "hp": "100",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+      },
+      "id": 152
     }
   ]
 }
